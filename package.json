@@ -1,0 +1,11 @@
+{
+  "name": "rallf-js-demo-task",
+  "main": "src/main.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "rallf-js run"
+  },
+  "dependencies": {
+    "rallf-js-sdk": "^0.7.7"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rallf-js-demo-task",
+  "main": "src/main.js",
+  "version": "1.0.0",
+  "sdk_version": "0.0.12",
+  "fqtn": "rallf.js.demo.task",
+  "language": "nodejs",
+  "type": "task",
+  "skills": {
+    "rallf.js.demo.skill": "1.0.0"
+  }
+}
